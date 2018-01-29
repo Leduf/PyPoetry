@@ -1,0 +1,39 @@
+pns1, vbs2 prp1 art1 nns1 nns1
+vbs1 adv2 art1 adj2 nnp1
+art1 adj2 nns1 prp1 nnp2
+vbg2 art1 nns2 prp1 nns1
+vbs3 adj2 nns2
+nnp2 vbg2, nnp1 prp1 nns1
+adj1 nns1 vbg2 prp1 vbs1 nns1
+vbg2 prp1 art1 adj2 nns1
+adv2 vbs1 prp1 art1 nns2
+nns1 prp1 nns2 vbp1 adj2
+vbg2 prp1 adj2 nns2
+adj2 nns1 prp1 adj2 nnp1
+nns1 vbs2 prp2 art1 nns1
+nns2 vbg2, adj1 prp1 nns1
+nns1, vbg2 art1 adj2 nns1
+vbg2 prp1 art1 nns3
+art1 nnp2 vbs2 adj1 nns1
+adv1 pns1 adv1 vbp1 nns1 prp1 nnp1,
+prp2 adj2 nnp1 adj2
+vbs1 art1 nns1 prp1 nnp2
+adj3 nns1 vbp2 adv1,
+adv2 vbg3 art1 nnp1
+art1 adj3 nns2 prp1 nnp2
+adv1 adj2 nns4,
+nnp1 vbs1 prp1 adj3 nns1
+adv1 vbg2 prp1 art1 adj1 nns1
+nnp2 vbs1, vbs1 prp1 adj1 nns1,
+adv2, adj2 nns1 vbg2
+adv3 adj2 adj1 nnp1
+adj3 nns2 adv1 vbp1
+adj1 adj2 nnp2 vbg2
+nns1 vbp1 adj4 nns1
+nns1, vbg3 art1 adj1 nns1
+vbg2 adv3 prp1 nns1
+adv1 vbg3 prp1 nns2
+nnp1 vbs1 art1 vbg2 nns2
+adj2 nnp4 vbs1,
+prp1 art1 vbg3 nnp2
+adv3 vbg3 nns1

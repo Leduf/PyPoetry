@@ -1,0 +1,11 @@
+adj
+adv
+art
+nnp
+nns
+pnp
+pns
+prp
+vbg
+vbp
+vbs
